@@ -1,3 +1,3 @@
-# Confeitaria API
+## Confeitaria API
 
-This is a repository to Moms Confectionery App 
+This is a repository for the Moms Confectionery API
